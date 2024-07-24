@@ -1,5 +1,5 @@
 # Scripting_Challenge
-Scripting_Challenge
+
 **User Input**
 The script prompts the user for the API URL and currency if not provided via command-line arguments.
 **Command-Line Overrides**
